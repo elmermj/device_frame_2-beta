@@ -1,7 +1,7 @@
 # device_frame
 
-DISCLAIMER: 
-I merely update this package so it will be able to be used with Flutter 3.19++. The original author is aloisdeniel.com
+# DISCLAIMER: 
+# I merely update this package so it will be able to be used with Flutter 3.19++. The original author is aloisdeniel.com
 
 <p>
   <a href="https://pub.dartlang.org/packages/device_frame"><img src="https://img.shields.io/pub/v/device_frame.svg"></a>
